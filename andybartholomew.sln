@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "andybartholomew", "http://mis5700.usu.edu/spring2014/andybartholomew", "{DD7DB311-44A3-42DE-98BC-5C29BA5B08CB}"
+	ProjectSection(WebsiteProperties) = preProject
+		Frontpage = "true"
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/andybartholomew"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\mis5700.usu.edu_spring2014_andybartholomew\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\andybartholomew\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/andybartholomew"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\mis5700.usu.edu_spring2014_andybartholomew\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\andybartholomew\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7DB311-44A3-42DE-98BC-5C29BA5B08CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7DB311-44A3-42DE-98BC-5C29BA5B08CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
